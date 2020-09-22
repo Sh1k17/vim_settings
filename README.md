@@ -1,1 +1,1 @@
-# vim_settings
+自用vim配置
